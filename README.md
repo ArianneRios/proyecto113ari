@@ -1,1 +1,1 @@
-# proyecto113ari
+# Responsive-image-gallery(INF-113)
